@@ -1,0 +1,14 @@
+{
+  "name": "networksharing",
+  "version": "1.0.0",
+  "description": "share file on local area network",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "author": "alvin dereba",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.9"
+  }
+}
