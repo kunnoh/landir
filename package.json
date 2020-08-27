@@ -1,7 +1,7 @@
 {
-  "name": "networksharing",
+  "name": "landir",
   "version": "1.0.0",
-  "description": "share file on local area network",
+  "description": "share files on local area network on all devices",
   "main": "index.js",
   "scripts": {
     "start": "electron . --no-sandbox"

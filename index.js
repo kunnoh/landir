@@ -7,8 +7,6 @@ const url = require('url');
 process.env.NODE_ENV = 'development';
 
 let mainWin;
-//let addWin;
-
 
 function createWin(){
     mainWin = new BrowserWindow({
